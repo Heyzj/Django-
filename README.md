@@ -8,4 +8,4 @@ env虚拟环境：pipenv
 后台需要富文本编辑的，可自行加入`mdeditor`和`markdown`
 需要自己增加主页的分页渲染：
 ## 需要进入settings中更改mysql配置和media，static的配置
-## 测试地址： http:www.heyzj.club
+## 测试地址： http://heyzj.club/
